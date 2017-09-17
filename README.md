@@ -3,4 +3,4 @@
 [Link to 2016 Hackathon](http://cdssatcu.com/hackathons/)
 
 
-[Python Brush up] (https://learn.devfe.st/datascience/)
+[Python Brush up](https://learn.devfe.st/datascience/)
